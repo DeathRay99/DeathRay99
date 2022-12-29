@@ -1,3 +1,5 @@
+# 💫 About Me:
+As a web developer, I have a strong foundation in technologies such as React.js, JavaScript, HTML, CSS, React Router, Material-UI, and Firebase. My skills allow me to build efficient, scalable, and visually appealing websites and web applications that deliver powerful online experiences. I have the ability to create user interfaces that are optimized for performance, design layouts that are responsive and visually appealing, and handle data storage, retrieval, and synchronization in real-time. I am dedicated to continuously learning and growing in the field of web development and am always looking for new opportunities to showcase my skills and make an impact. My passion and expertise make me an asset to any team or organization seeking to create innovative and engaging online experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak84687) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-goyal-1855b5322b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/deepak84687)
@@ -12,7 +14,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeathRay99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
