@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hola , Myself Deepak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 As a web developer, I have a strong foundation in technologies such as React.js, JavaScript, HTML, CSS, React Router, Material-UI, and Firebase. My skills allow me to build efficient, scalable, and visually appealing websites and web applications that deliver powerful online experiences. I have the ability to create user interfaces that are optimized for performance, design layouts that are responsive and visually appealing, and handle data storage, retrieval, and synchronization in real-time. I am dedicated to continuously learning and growing in the field of web development and am always looking for new opportunities to showcase my skills and make an impact. My passion and expertise make me an asset to any team or organization seeking to create innovative and engaging online experiences.
 
 ## 🌐 Socials:
